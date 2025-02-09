@@ -6991,8 +6991,7 @@
     "1334": {
         "name": "pearzap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1335": {
         "name": "shiroswap",
@@ -9730,6 +9729,7 @@
         "name": "sharkswap",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "1829": {
@@ -12665,7 +12665,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -23002,7 +23001,8 @@
     "4204": {
         "name": "rockswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4205": {
         "name": "cygnus-finance",
