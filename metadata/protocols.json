@@ -1929,7 +1929,8 @@
     "409": {
         "name": "cafeswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "410": {
         "name": "swamp-finance",
@@ -7564,8 +7565,7 @@
     "1437": {
         "name": "nightmare-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1438": {
         "name": "treehouse-finance",
@@ -18677,7 +18677,8 @@
     "3417": {
         "name": "unclesam-protocol",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3418": {
         "name": "meowl",
@@ -19519,7 +19520,8 @@
     "3565": {
         "name": "ball-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3566": {
         "name": "friend3",
