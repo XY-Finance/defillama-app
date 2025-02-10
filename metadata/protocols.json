@@ -3527,8 +3527,7 @@
     "677": {
         "name": "borgswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "678": {
         "name": "jswap",
@@ -8213,8 +8212,7 @@
         "name": "single-finance",
         "tvl": true,
         "yields": true,
-        "governance": true,
-        "liquidity": true
+        "governance": true
     },
     "1558": {
         "name": "gogocoin",
@@ -10159,8 +10157,7 @@
     "1902": {
         "name": "starswap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1903": {
         "name": "vovo-finance",
@@ -10744,8 +10741,7 @@
     "2010": {
         "name": "starswap-starcoin",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2011": {
         "name": "sudo-inu",
@@ -16078,8 +16074,7 @@
     "2966": {
         "name": "starmaker",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2967": {
         "name": "optimism-foundation",
@@ -31329,6 +31324,11 @@
         "fees": true,
         "revenue": true,
         "dexs": true
+    },
+    "5762": {
+        "name": "zoo-finance",
+        "tvl": true,
+        "yields": false
     },
     "chain#1": {
         "fees": true,
