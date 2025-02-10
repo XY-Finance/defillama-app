@@ -3722,6 +3722,8 @@
         "yields": false,
         "forks": true,
         "raises": true,
+        "fees": true,
+        "revenue": true,
         "dexs": true
     },
     "712": {
@@ -9743,8 +9745,7 @@
         "name": "zeroswap",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "1831": {
         "name": "vitcswap",
