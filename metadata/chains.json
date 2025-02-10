@@ -205,6 +205,7 @@
         "name": "Berachain",
         "fees": true,
         "dexs": true,
+        "derivatives": true,
         "aggregators": true,
         "gecko_id": "berachain-bera",
         "tokenSymbol": "BERA"
@@ -525,6 +526,7 @@
     },
     "cube": {
         "name": "Cube",
+        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
