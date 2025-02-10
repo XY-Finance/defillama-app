@@ -7542,8 +7542,7 @@
     "1434": {
         "name": "newspace-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1435": {
         "name": "cemetery-finance",
@@ -9965,8 +9964,7 @@
     "1871": {
         "name": "hunnyswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "1872": {
         "name": "rift-finance",
