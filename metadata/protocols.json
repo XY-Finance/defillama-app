@@ -957,6 +957,7 @@
         "yields": false,
         "governance": true,
         "forks": true,
+        "liquidity": true,
         "hacks": true,
         "raises": true
     },
@@ -1178,8 +1179,7 @@
     "289": {
         "name": "yetiswap",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "290": {
         "name": "penguin-finance",
@@ -3613,7 +3613,8 @@
     "692": {
         "name": "hurricaneswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "693": {
         "name": "superfluid",
@@ -4190,7 +4191,8 @@
     "815": {
         "name": "pureswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "816": {
         "name": "xsigma",
@@ -15689,6 +15691,7 @@
         "tvl": true,
         "yields": false,
         "treasury": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -24641,8 +24644,7 @@
     "4509": {
         "name": "enki-protocol",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4510": {
         "name": "revoswap",
@@ -30867,7 +30869,10 @@
     "5665": {
         "name": "artexswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "fees": true,
+        "revenue": true,
+        "dexs": true
     },
     "5666": {
         "name": "babypie",
@@ -31344,6 +31349,16 @@
     },
     "5766": {
         "name": "bulla-exchange",
+        "tvl": true,
+        "yields": false
+    },
+    "5767": {
+        "name": "ucs-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5768": {
+        "name": "arkis",
         "tvl": true,
         "yields": false
     },
