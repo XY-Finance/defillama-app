@@ -207,6 +207,7 @@
         "dexs": true,
         "derivatives": true,
         "aggregators": true,
+        "options": true,
         "gecko_id": "berachain-bera",
         "tokenSymbol": "BERA"
     },
