@@ -25012,7 +25012,7 @@
     "4581": {
         "name": "tokan-exchange",
         "tvl": true,
-        "yields": true,
+        "yields": false,
         "liquidity": true
     },
     "4582": {
