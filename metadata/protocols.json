@@ -32886,7 +32886,8 @@
         "fees": true,
         "revenue": true,
         "dexs": true,
-        "perps": true
+        "perps": true,
+        "emissions": true
     },
     "parent#icecreamswap": {
         "name": "icecreamswap",
