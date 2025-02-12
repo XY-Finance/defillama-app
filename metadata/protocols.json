@@ -1774,7 +1774,6 @@
         "tvl": true,
         "yields": false,
         "governance": true,
-        "liquidity": true,
         "fees": true,
         "revenue": true
     },
@@ -1973,8 +1972,7 @@
     "416": {
         "name": "westarter",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "417": {
         "name": "solyard",
@@ -7170,7 +7168,8 @@
     "1366": {
         "name": "hotfriescoin",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1367": {
         "name": "wowswap",
@@ -9295,7 +9294,8 @@
     "1751": {
         "name": "solily-protocol",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1752": {
         "name": "yelay-v1",
@@ -23853,8 +23853,7 @@
     "4363": {
         "name": "yield-wars",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "4364": {
         "name": "ix-swap-rwa",

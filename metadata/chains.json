@@ -529,7 +529,6 @@
     },
     "cube": {
         "name": "Cube",
-        "dexs": true,
         "gecko_id": "cube-network",
         "tokenSymbol": "CUBE"
     },
@@ -2117,7 +2116,9 @@
         "tokenSymbol": "ULX"
     },
     "unichain": {
-        "name": "Unichain"
+        "name": "Unichain",
+        "fees": true,
+        "dexs": true
     },
     "unit0": {
         "name": "UNIT0",
