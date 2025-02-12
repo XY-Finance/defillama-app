@@ -1207,7 +1207,8 @@
         "name": "lydia",
         "tvl": true,
         "yields": false,
-        "governance": true
+        "governance": true,
+        "activeUsers": true
     },
     "294": {
         "name": "anchor",
@@ -6794,7 +6795,6 @@
         "name": "zipswap",
         "tvl": true,
         "yields": true,
-        "activeUsers": true,
         "dexs": true
     },
     "1297": {
@@ -8207,7 +8207,8 @@
         "name": "single-finance",
         "tvl": true,
         "yields": true,
-        "governance": true
+        "governance": true,
+        "liquidity": true
     },
     "1558": {
         "name": "gogocoin",
@@ -11477,7 +11478,6 @@
         "governance": true,
         "liquidity": true,
         "hacks": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -15433,7 +15433,7 @@
     },
     "2853": {
         "name": "eoswap-finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2854": {
@@ -15457,7 +15457,7 @@
     },
     "2857": {
         "name": "frogge.finance",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2858": {
@@ -15527,7 +15527,7 @@
     },
     "2870": {
         "name": "jlswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "2871": {
