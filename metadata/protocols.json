@@ -2793,8 +2793,7 @@
     "550": {
         "name": "freeriver",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "551": {
         "name": "solarbeam",
@@ -3637,7 +3636,6 @@
         "name": "dinosaur-eggs",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "dexs": true
     },
     "696": {
@@ -3736,7 +3734,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": false,
+        "tvl": true,
         "yields": false,
         "dexs": true
     },
@@ -10156,7 +10154,8 @@
     "1902": {
         "name": "starswap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1903": {
         "name": "vovo-finance",
@@ -10245,6 +10244,7 @@
         "yields": false,
         "liquidity": true,
         "raises": true,
+        "activeUsers": true,
         "fees": true,
         "revenue": true
     },
@@ -10739,7 +10739,8 @@
     "2010": {
         "name": "starswap-starcoin",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2011": {
         "name": "sudo-inu",
@@ -12660,6 +12661,7 @@
         "tvl": true,
         "yields": false,
         "governance": true,
+        "liquidity": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -16069,7 +16071,8 @@
     "2966": {
         "name": "starmaker",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2967": {
         "name": "optimism-foundation",
@@ -19247,7 +19250,8 @@
     "3517": {
         "name": "ace-of-base",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3518": {
         "name": "messina-liquid-staking",
@@ -20750,7 +20754,7 @@
     },
     "3802": {
         "name": "krunch-defi",
-        "tvl": true,
+        "tvl": false,
         "yields": false
     },
     "3803": {
@@ -31374,6 +31378,11 @@
         "tvl": true,
         "yields": false
     },
+    "5773": {
+        "name": "aarna-protocol",
+        "tvl": true,
+        "yields": false
+    },
     "5774": {
         "name": "magma",
         "tvl": true,
@@ -31381,6 +31390,16 @@
     },
     "5775": {
         "name": "infrared-finance",
+        "tvl": true,
+        "yields": false
+    },
+    "5776": {
+        "name": "dopin-protocol",
+        "tvl": true,
+        "yields": false
+    },
+    "5777": {
+        "name": "sosovalue-basis",
         "tvl": true,
         "yields": false
     },
@@ -33885,6 +33904,7 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
+        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
