@@ -137,6 +137,7 @@
         "name": "keep-network",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "raises": true
     },
     "125": {
