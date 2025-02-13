@@ -1842,7 +1842,8 @@
     "396": {
         "name": "polydex",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "397": {
         "name": "shibaswap",
@@ -1922,7 +1923,8 @@
     "408": {
         "name": "jetfuel-finance",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "409": {
         "name": "cafeswap",
@@ -3432,6 +3434,7 @@
         "name": "jetswap",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "660": {
@@ -4466,8 +4469,7 @@
     "865": {
         "name": "seeder-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "866": {
         "name": "reverse",
@@ -6382,7 +6384,8 @@
     "1216": {
         "name": "farm-hero",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1217": {
         "name": "parallel-polkadot-crowdloan",
@@ -7318,8 +7321,7 @@
     "1393": {
         "name": "basis-markets",
         "tvl": false,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1394": {
         "name": "mymine",
@@ -7562,8 +7564,7 @@
     "1438": {
         "name": "treehouse-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1439": {
         "name": "the-don-finance",
@@ -11273,7 +11274,8 @@
     "2108": {
         "name": "w3swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2109": {
         "name": "pyeswap",
@@ -11689,7 +11691,8 @@
         "tvl": true,
         "yields": false,
         "liquidity": true,
-        "hacks": true
+        "hacks": true,
+        "activeUsers": true
     },
     "2178": {
         "name": "templedao-trade",
@@ -14880,7 +14883,8 @@
     "2751": {
         "name": "lfgswap-arbitrum",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2752": {
         "name": "onchain-trade",
@@ -17370,6 +17374,7 @@
         "name": "flowx-v2",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "dexs": true
     },
     "3197": {
@@ -25013,7 +25018,8 @@
     "4582": {
         "name": "flowx-v3",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "4583": {
         "name": "keller-finance-v3",
@@ -26301,6 +26307,7 @@
         "name": "flowx-aggregator",
         "tvl": false,
         "yields": false,
+        "liquidity": true,
         "aggregator": true
     },
     "4826": {
@@ -32605,6 +32612,7 @@
         "name": "flowx-finance",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true,
         "aggregator": true
     },
