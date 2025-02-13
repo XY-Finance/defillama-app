@@ -4218,8 +4218,7 @@
     "820": {
         "name": "doki-doki-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "821": {
         "name": "undead-finance",
@@ -14138,8 +14137,7 @@
     "2621": {
         "name": "sterling-finance",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2622": {
         "name": "mare-finance-v1",
@@ -17612,8 +17610,7 @@
     "3240": {
         "name": "magician-mv",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3241": {
         "name": "meter-liquid-staking",
