@@ -3729,7 +3729,7 @@
     },
     "713": {
         "name": "polkaswap",
-        "tvl": true,
+        "tvl": false,
         "yields": false,
         "dexs": true
     },
@@ -11149,8 +11149,7 @@
     "2086": {
         "name": "rage-trade-v1-(deprecated)",
         "tvl": true,
-        "yields": false,
-        "activeUsers": true
+        "yields": false
     },
     "2087": {
         "name": "chee-finance",
@@ -33475,7 +33474,6 @@
         "yields": true,
         "tvl": true,
         "governance": true,
-        "activeUsers": true,
         "fees": true,
         "revenue": true,
         "dexs": true
@@ -33771,9 +33769,6 @@
         "yields": false,
         "tvl": true
     },
-    "parent#paraspace": {
-        "activeUsers": true
-    },
     "parent#parax": {
         "name": "parallel-super-app",
         "yields": false,
@@ -33865,7 +33860,6 @@
         "tvl": true,
         "governance": true,
         "liquidity": true,
-        "activeUsers": true,
         "dexs": true
     },
     "parent#polynomial-protocol": {
