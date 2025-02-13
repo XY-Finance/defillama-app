@@ -7636,8 +7636,7 @@
         "name": "solidex",
         "tvl": true,
         "yields": false,
-        "forks": true,
-        "liquidity": true
+        "forks": true
     },
     "1451": {
         "raises": true
@@ -11570,8 +11569,7 @@
     "2157": {
         "name": "green-planet",
         "tvl": true,
-        "yields": true,
-        "liquidity": true
+        "yields": true
     },
     "2158": {
         "name": "blue-planet",
@@ -16732,8 +16730,7 @@
         "name": "olympulsex",
         "tvl": false,
         "yields": false,
-        "treasury": true,
-        "liquidity": true
+        "treasury": true
     },
     "3083": {
         "name": "penpie",
