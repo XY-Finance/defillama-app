@@ -4926,6 +4926,7 @@
         "name": "knightswap-finance",
         "tvl": true,
         "yields": false,
+        "liquidity": true,
         "activeUsers": true,
         "dexs": true
     },
@@ -5023,7 +5024,8 @@
     "958": {
         "name": "ester-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "959": {
         "name": "alpaca-city",
@@ -6780,8 +6782,7 @@
     "1286": {
         "name": "omnidex-swap",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1287": {
         "name": "crafting-finance",
@@ -11834,8 +11835,7 @@
     "2191": {
         "name": "omnidex-lend",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "2192": {
         "name": "plutusdao",
@@ -13398,7 +13398,8 @@
     "2482": {
         "name": "citadao",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2483": {
         "name": "perennial-v1",
@@ -16402,8 +16403,7 @@
     "3003": {
         "name": "omnidex-perpetuals",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3004": {
         "name": "bfxfi",
@@ -18914,7 +18914,8 @@
     "3440": {
         "name": "knightswap-lending",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "3441": {
         "name": "autotronic",
@@ -22319,7 +22320,6 @@
         "name": "dydx-v4",
         "tvl": true,
         "yields": false,
-        "liquidity": true,
         "fees": true,
         "revenue": true,
         "perps": true
@@ -33252,6 +33252,7 @@
         "name": "knightswap",
         "yields": false,
         "tvl": true,
+        "liquidity": true,
         "dexs": true
     },
     "parent#kodiak": {
@@ -33855,8 +33856,7 @@
     "parent#omnidex": {
         "name": "omnidex",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#onering": {
         "name": "onering",
