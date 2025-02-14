@@ -4459,6 +4459,7 @@
         "name": "yoshi-exchange",
         "tvl": true,
         "yields": false,
+        "activeUsers": true,
         "dexs": true
     },
     "864": {
@@ -6615,7 +6616,8 @@
     "1261": {
         "name": "darkcrypto",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "1262": {
         "name": "saros",
@@ -7155,7 +7157,8 @@
     "1363": {
         "name": "oni-exchange",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "1364": {
         "name": "narwhalswap",
@@ -12339,7 +12342,8 @@
     "2302": {
         "name": "goober",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2303": {
         "name": "revert-v3-staker",
@@ -12489,7 +12493,8 @@
         "name": "swapfish",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2332": {
         "name": "equalizer-exchange",
@@ -12754,7 +12759,8 @@
     "2379": {
         "name": "camel-farm",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2380": {
         "name": "optim-finance",
@@ -12785,7 +12791,8 @@
         "name": "oreoswap",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2385": {
         "name": "exactly",
@@ -13894,7 +13901,8 @@
     "2577": {
         "name": "sharky-swap",
         "tvl": true,
-        "yields": false
+        "yields": false,
+        "activeUsers": true
     },
     "2578": {
         "name": "beamer-bridge",
@@ -15992,7 +16000,8 @@
         "name": "archi-finance",
         "tvl": true,
         "yields": false,
-        "liquidity": true
+        "liquidity": true,
+        "activeUsers": true
     },
     "2953": {
         "name": "zenith",
