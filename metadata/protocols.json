@@ -3359,8 +3359,7 @@
     "647": {
         "name": "jet-v1",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "648": {
         "name": "alkemi",
@@ -11914,7 +11913,7 @@
     },
     "2214": {
         "name": "bridgekek",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "2215": {
@@ -12625,7 +12624,8 @@
     "2355": {
         "name": "athos-finance",
         "tvl": false,
-        "yields": false
+        "yields": false,
+        "liquidity": true
     },
     "2356": {
         "name": "el-dorado-exchange",
@@ -17309,14 +17309,12 @@
     "3184": {
         "name": "jet-margin",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3185": {
         "name": "jet-fixed-term",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "3186": {
         "name": "soarpls",
@@ -31434,7 +31432,7 @@
     },
     "5785": {
         "name": "bitfi-basis",
-        "tvl": false,
+        "tvl": true,
         "yields": false
     },
     "chain#1": {
@@ -33058,8 +33056,7 @@
     "parent#jet": {
         "name": "jet",
         "yields": false,
-        "tvl": true,
-        "liquidity": true
+        "tvl": true
     },
     "parent#jewelswap": {
         "name": "jewelswap",
