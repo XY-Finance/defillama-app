@@ -6539,8 +6539,7 @@
     "1245": {
         "name": "proxy",
         "tvl": true,
-        "yields": false,
-        "liquidity": true
+        "yields": false
     },
     "1246": {
         "name": "spartan",
